@@ -16,15 +16,12 @@ Rexburg, ID | (208) 223-7089 | man20048@byui.edu | www.linkedin.com/in/jamesyepp
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`January 2021 - July 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bachelor of Science in Accounting
+- Minor in Data Science
+- GPA: 3.854
 
 
 
