@@ -36,7 +36,7 @@ __Pacific Northwest National Lab__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Published a journal article in Environmental Quality
 
 ### Data Science Lead
 
