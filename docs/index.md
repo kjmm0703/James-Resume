@@ -13,6 +13,7 @@ Rexburg, ID | (208) 223-7089 | man20048@byui.edu |
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 
+
 ## Education
 
 `January 2021 - July 2024`
@@ -23,60 +24,69 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - GPA: 3.854
 
 
+
 ## Work Experience
 
 ### Transfer Evaluation Processor
 
 `April 2021 - Present`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho (Student Records & Registration)__, Rexburg, ID
 
 - Review and evaluate student's transfer coursework to determine an equivalency, appropriate course placement, and accurate course recommendation
 - Evaluate and input AP (Advanced Placement), CLEP (College Level Examination Program), IB (International Baccalaureate), Military Evaluation Results, EIL (English as an International Language), International credits through SPANTRAN and/or IERF, and all domestic transcripts
 - Collaborate with the Lead, Coordinator, and Associate Registrar to help resolve transfer credit concerns
 
 
-### Data Science Lead
+### Assurance/Audit Intern
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2023 - April 2023`
+__WSRP, LLC__, Salt Lake City, UT
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Participated in audit engagements, including planning, executing, and completing audit assignments in accordance with the audit plan and audit methodology
+- Identified and analyzed risks and controls, and created audit programs to assess the adequacy of such controls
+- Ensured compliance with GAAP, IFRS, PCAOB, SEC, and company policies
 
 
-### Data Science Consulting Team
+### Accounts Receivable Specialist
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`September 2022 - December 2022`
+__Brigham Young University - Idaho (Accounting Services Office)__, Rexburg, ID
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Reviewed and responded to Failed Payment Petitions, removed Healthcare Late Fees when applicable, potential Reconciliations, and processed Housing Verification Forms
+- Professionally communicated with students via Live Chat, email, and telephone while solving their concerns
+- Maintained focus, accuracy, and confidentiality while processing sensitive student information
 
 
-## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+## Volunteer Work and Service
+
+### President of Student Accounting Society
+
+`July 2023 - Present`
+__Brigham Young University - Idaho (Student Accounting Society)__, Rexburg, ID
+
+- Spearhead the Student Accounting Society as President, providing visionary leadership and strategic direction to a team of dedicated accounting enthusiasts
+- Foster strong relationships with industry professionals, accounting firms, and academic institutions, facilitating valuable opportunities for members to connect with potential employers and graduate programs
+- Demonstrate exceptional communication and organizational skills while coordinating and promoting events, resulting in improved visibility and participation within the accounting community on campus
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Full-time Volunteer Service Representative
+
+`October 2017 - November 2019`
+__Sacramento California Mission__, Sacramento, CA
+
+- Managed the finances of the mission to ensure strict adherence to budget
+- Collaborated with 75 leaders to implement strategies to increase productivity
+- Organized and taught weekly training to 30 missionaries resulting in clear expectations
+
+
+
+## Skills
+
+### Accounting
+
+
+### Computer Science
 
 
 
