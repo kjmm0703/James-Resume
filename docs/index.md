@@ -23,14 +23,16 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - GPA: 3.854
 
 
-### Internships
+## Work Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### Transfer Evaluation Processor
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality
+`April 2021 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Review and evaluate student's transfer coursework to determine an equivalency, appropriate course placement, and accurate course recommendation
+- Evaluate and input AP (Advanced Placement), CLEP (College Level Examination Program), IB (International Baccalaureate), Military Evaluation Results, EIL (English as an International Language), International credits through SPANTRAN and/or IERF, and all domestic transcripts
+- Collaborate with the Lead, Coordinator, and Associate Registrar to help resolve transfer credit concerns
 
 
 ### Data Science Lead
