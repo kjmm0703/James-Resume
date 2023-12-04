@@ -1,4 +1,4 @@
----
+![image](https://github.com/kjmm0703/James-Resume/assets/152538155/f22b4199-7ced-4464-9605-b8c372c72d7f)---
 layout: cv
 title: Keail James Manalansang's Resume
 ---
@@ -85,9 +85,12 @@ __Sacramento California Mission__, Sacramento, CA
 
 ### Accounting
 
+- SAP Accounting Software Certificate, Knowledge of GAAP Standards, and Individual Income Tax Planning and Research
+
 
 ### Computer Science
 
+- Advanced Microsoft Excel Functions, Power BI, SharePoint, My SQL, and Python
 
 
 <!-- ### Footer
