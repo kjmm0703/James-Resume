@@ -1,4 +1,4 @@
-![image](https://github.com/kjmm0703/James-Resume/assets/152538155/f22b4199-7ced-4464-9605-b8c372c72d7f)---
+
 layout: cv
 title: Keail James Manalansang's Resume
 ---
