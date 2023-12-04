@@ -23,15 +23,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - GPA: 3.854
 
 
-## Work Experience
-
-`January 2021 - July 2024`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- Bachelor of Science in Accounting
-- Minor in Data Science
-- GPA: 3.854
-
 ### Internships
 
 `January 2028 - June 2028`
