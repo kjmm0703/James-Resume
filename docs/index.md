@@ -1,7 +1,8 @@
-
+---
 layout: cv
 title: Keail James Manalansang's Resume
 ---
+
 # Keail James Mendoza Manalansang
 Rexburg, ID | (208) 223-7089 | man20048@byui.edu | www.linkedin.com/in/jamesyeppp | https://github.com/kjmm0703
 
