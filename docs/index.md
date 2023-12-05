@@ -6,8 +6,8 @@ title: Keail James Manalansang's Resume
 Rexburg, ID | (208) 223-7089 | man20048@byui.edu | 
 
 <div id="webaddress">
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> 
-| <a href="https://www.linkedin.com/in/jamesyeppp/">LinkedIn</a> 
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://www.linkedin.com/in/jamesyeppp/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 <!-- https://www.monique.tech/the-art-of-markdown -->
