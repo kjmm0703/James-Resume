@@ -21,7 +21,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelor of Science in Accounting
 - Minor in Data Science
-- GPA: 3.854
+- GPA: 3.85 / 4.00
 
 
 
