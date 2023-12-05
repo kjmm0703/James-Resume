@@ -1,4 +1,4 @@
----
+
 layout: cv
 title: Keail James Manalansang's Resume
 ---
