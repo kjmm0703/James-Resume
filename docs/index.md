@@ -81,7 +81,7 @@ __Sacramento California Mission__, Sacramento, CA
 
 ### Computer Science
 
-- Advanced Microsoft Excel Functions, Power BI, SharePoint, My SQL, and Python
+- Advanced Skills in Visual Basics Application Excels (VBA), Power BI, SharePoint, and Proficient in My SQL and Python
 
 
 <!-- ### Footer
